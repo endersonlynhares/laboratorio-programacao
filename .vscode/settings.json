@@ -58,6 +58,8 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "math.h": "c",
-    "stdio.h": "c"
-  }
+    "stdio.h": "c",
+    "unity.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
